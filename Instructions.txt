@@ -1,0 +1,4 @@
+// || is the player
+// To Move the player, use W-A-S-D
+// Avoid the #(denotes a car)
+// Reach the end and gain one point
